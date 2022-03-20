@@ -4,6 +4,13 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
+// import myrequest
+import myRequest from './common/request.js'
+Vue.prototype.$request = myRequest
+// import myconfig
+import config from './common/config.js'
+Vue.prototype.$config = config
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
