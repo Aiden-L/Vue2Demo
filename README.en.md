@@ -11,8 +11,6 @@
 * 1.0
   * axios
   * vue-router
-* 2.0
-  * ADD element-ui
 
 ## Build Setup
 
