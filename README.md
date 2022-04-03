@@ -7,6 +7,11 @@
 ## Design Details
 [https://blog.csdn.net/weixin_46065314/article/details/123518807](https://blog.csdn.net/weixin_46065314/article/details/123518807)
 
+## Dependences
+* 1.0.0
+  * axios
+  * vue-router
+
 ## Build Setup
 
 ``` bash
@@ -22,3 +27,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+## Update Logs
+* 1.0.0: Updated the project directory structure, configured router, added global generic methods, global generic CSS styles, and encapsulation of AXIOS requests

@@ -1,3 +1,4 @@
+// 此文件为请求专用方法的封装
 import config from "./config.js";
 
 export default{

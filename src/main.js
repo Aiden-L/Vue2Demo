@@ -10,6 +10,9 @@ Vue.prototype.$request = myRequest
 // import myconfig
 import config from './common/config.js'
 Vue.prototype.$config = config
+// import common js
+import myfuncs from './common/common.js'
+Vue.prototype.$funcs = myfuncs
 
 Vue.config.productionTip = false
 
