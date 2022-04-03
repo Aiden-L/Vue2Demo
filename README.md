@@ -11,8 +11,6 @@
 * 1.0
   * axios
   * vue-router
-* 2.0
-  * 新增 element-ui
 
 ## 安装教程
 
