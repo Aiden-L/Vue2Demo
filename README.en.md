@@ -33,3 +33,4 @@ npm run build --report
 ## Update Logs
 * 1.0.0: Updated the project directory structure, configured router, added global generic methods, global generic CSS styles, and encapsulation of AXIOS requests
 * 1.0.1: Add icon
+* 2.0.0: Add element-ui support, add navigation bar Demo

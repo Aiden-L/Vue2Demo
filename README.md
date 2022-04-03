@@ -33,3 +33,4 @@ npm run build --report
 ## 更新日志
 * 1.0.0: 更新项目目录结构，配置了router，添加了全局通用方法，全局通用CSS样式，AXIOS请求的封装
 * 1.0.1: 添加了网页图标
+* 2.0.0: 添加element-ui支持，导航栏Demo
