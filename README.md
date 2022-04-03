@@ -1,32 +1,32 @@
 # Vue2Demo
 
-> A Customized Front-end Demo for Vue2.
+> 自定义的Vue2前端开发框架
 >
-> This is an empty project template, includes route configuration and design, request backend method encapsulation, etc., which makes it easy to use directly.
+> 这是一个空的项目模板，包括路由配置和设计，请求后端方法封装等，这使得它很容易直接使用。
 
-## Design Details
+## 设计细节
 [https://blog.csdn.net/weixin_46065314/article/details/123518807](https://blog.csdn.net/weixin_46065314/article/details/123518807)
 
-## Dependences
+## 各版本依赖
 * 1.0.0
   * axios
   * vue-router
 
-## Build Setup
+## 安装教程
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动dev调试
 npm run dev
 
-# build for production with minification
+# 发行打包
 npm run build
 
-# build for production and view the bundle analyzer report
+# 打包并查看分析报告
 npm run build --report
 ```
 
-## Update Logs
-* 1.0.0: Updated the project directory structure, configured router, added global generic methods, global generic CSS styles, and encapsulation of AXIOS requests
+## 更新日志
+* 1.0.0: 更新项目目录结构，配置了router，添加了全局通用方法，全局通用CSS样式，AXIOS请求的封装
