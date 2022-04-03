@@ -2,8 +2,9 @@
   <div>
     <h2>{{msg}}</h2>
     <hello></hello>
-    <button @click="sendPostRequest">Send a POST request</button>
-    <button @click="sendGetRequest">Send a GET request</button>
+    <div style="height: 10px;"></div>
+    <el-button @click="sendPostRequest">Send a POST request</el-button>
+    <el-button @click="sendGetRequest">Send a GET request</el-button>
   </div>
 </template>
 

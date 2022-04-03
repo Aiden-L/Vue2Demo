@@ -80,6 +80,7 @@
         </a>
       </li>
     </ul>
+    <el-link type="primary" href="https://element.eleme.io/#/zh-CN/component/installation" target="_blank">Element UI 组件使用参考官方文档</el-link>
   </div>
 </template>
 

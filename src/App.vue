@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <!-- 路由视图 -->
     <router-view/>
   </div>
 </template>
@@ -19,7 +20,6 @@ export default {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin: 0;
-  padding: 0;
+  height: 100vh;
 }
 </style>
